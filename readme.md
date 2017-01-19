@@ -1,4 +1,4 @@
-# Realtime Chat Demo with Laravel, Vue, and Pusher
+# Realtime Chat Demo with Laravel 5.4, VueJS, and Pusher
 
 LINK TKTK.
 
