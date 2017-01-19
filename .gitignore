@@ -10,3 +10,4 @@ public/css/*.css
 public/js/*.js
 public/manifest.json
 public/hot
+.env.dusk.*
