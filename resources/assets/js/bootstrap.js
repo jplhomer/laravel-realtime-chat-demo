@@ -41,5 +41,5 @@ import Echo from "laravel-echo"
 
 window.Echo = new Echo({
     broadcaster: 'pusher',
-    key: 'a0e0f7cd77e818758559'
+    key: Laravel.pusherKey
 });
