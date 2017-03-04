@@ -11,3 +11,4 @@ public/js/*.js
 public/manifest.json
 public/hot
 .env.dusk.*
+public/mix-manifest.json
