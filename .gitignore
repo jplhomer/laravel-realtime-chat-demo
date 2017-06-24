@@ -8,7 +8,9 @@ Homestead.yaml
 .env
 public/css/*.css
 public/js/*.js
+public/fonts/*
 public/manifest.json
 public/hot
 .env.dusk.*
 public/mix-manifest.json
+npm-debug.log
